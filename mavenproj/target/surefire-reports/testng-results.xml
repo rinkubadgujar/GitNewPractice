@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-25T14:18:13 IST" name="Surefire suite" finished-at="2022-04-25T14:18:13 IST" duration-ms="104">
+    <groups>
+    </groups>
+    <test started-at="2022-04-25T14:18:13 IST" name="Surefire test" finished-at="2022-04-25T14:18:13 IST" duration-ms="104">
+      <class name="practice.mavenproj.basic1Test">
+        <test-method signature="b1()[pri:0, instance:practice.mavenproj.basic1Test@3c9754d8]" started-at="2022-04-25T14:18:13 IST" name="b1" finished-at="2022-04-25T14:18:13 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b1 -->
+        <test-method signature="b2()[pri:0, instance:practice.mavenproj.basic1Test@3c9754d8]" started-at="2022-04-25T14:18:13 IST" name="b2" finished-at="2022-04-25T14:18:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b2 -->
+      </class> <!-- practice.mavenproj.basic1Test -->
+      <class name="practice.mavenproj.basic2Test">
+        <test-method signature="b21()[pri:0, instance:practice.mavenproj.basic2Test@7a8c8dcf]" started-at="2022-04-25T14:18:13 IST" name="b21" finished-at="2022-04-25T14:18:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b21 -->
+        <test-method signature="b22()[pri:0, instance:practice.mavenproj.basic2Test@7a8c8dcf]" started-at="2022-04-25T14:18:13 IST" name="b22" finished-at="2022-04-25T14:18:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b22 -->
+      </class> <!-- practice.mavenproj.basic2Test -->
+      <class name="practice.mavenproj.basicTest">
+        <test-method signature="b31()[pri:0, instance:practice.mavenproj.basicTest@24269709]" started-at="2022-04-25T14:18:13 IST" name="b31" finished-at="2022-04-25T14:18:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b31 -->
+        <test-method signature="b32()[pri:0, instance:practice.mavenproj.basicTest@24269709]" started-at="2022-04-25T14:18:13 IST" name="b32" finished-at="2022-04-25T14:18:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b32 -->
+      </class> <!-- practice.mavenproj.basicTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
